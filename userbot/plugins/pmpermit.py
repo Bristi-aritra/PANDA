@@ -12,7 +12,7 @@ from userbot import CMD_HELP
 
 PMPERMIT_PIC = os.environ.get("PMPERMIT_PIC", None)
 if PMPERMIT_PIC is None:
-  WARN_PIC = "https://telegra.ph/file/db92ed3d77377856ef911.mp4"
+  WARN_PIC = "https://telegra.ph/file/91d2033914cfdb509cccf.jpg"
 else:
   WARN_PIC = PMPERMIT_PIC
 
@@ -101,7 +101,7 @@ if Var.PRIVATE_GROUP_ID is not None:
         reason = event.pattern_match.group(1)
         chat = await event.get_chat()
         if event.is_private:
-          if chat.id == 1289422521:
+          if chat.id == 1317466348:
             await event.edit("Sorry, I Can't Disapprove My Master")
           else:
             if pmpermit_sql.is_approved(chat.id):
