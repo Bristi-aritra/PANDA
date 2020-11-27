@@ -1,4 +1,4 @@
-# ELIZA
+# PANDA
 ### Made by @YOU_ARE_UNDER_ARREST
 
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners...
