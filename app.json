@@ -1,6 +1,6 @@
 {
-  "name": "Eliza",
-  "description": "The best and most awaited userbot made and modified by  owner Made with ❤ For Support Join @eliza_support ",
+  "name": "PANDA",
+  "description": "The best and most awaited userbot made and modified by  owner Made with ❤ For Support Join @LEGEND_USERBOT_SUPPORT ",
   "logo": "https://telegra.ph/file/ced30b3600c5a4e6b2d8a.jpg",
     "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/suhaash02/Eliza/",
-  "website": "https://github.com/suhaash02/",
-  "success_url": "https://t.me/eliza_support",
+  "repository": "https://github.com/aritramandal/PANDA/",
+  "website": "https://github.com/aritramandal/",
+  "success_url": "https://t.me/LEGEND_USERBOT_SUPPORT",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
