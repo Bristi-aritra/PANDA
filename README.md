@@ -29,7 +29,7 @@ Get APP ID and API HASH from [HERE](https://my.telegram.org) and BOT TOKEN from 
 
 
 
-[![PANDAlogo](https://telegra.ph/file/ced30b3600c5a4e6b2d8a.jpg)](https://heroku.com/deploy?template=https://github.com/aritramandal/PANDA)
+[![PANDAlogo](https://telegra.ph/file/91d2033914cfdb509cccf.jpg)](https://heroku.com/deploy?template=https://github.com/aritramandal/PANDA)
 
 ## The Normal Way
 Simply clone the repository and run the main file:
