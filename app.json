@@ -1,6 +1,6 @@
 {
   "name": "PANDA",
-  "description": "The best and most awaited userbot made and modified by  owner Made with ❤ For Support Join @LEGEND_USERBOT_SUPPORT ",
+  "description": "The best and most awaited userbot made and modified by @YOU_ARE_UNDER_ARREST ...Made with ❤ For Support Join @LEGEND_USERBOT_SUPPORT ",
   "logo": "https://telegra.ph/file/91d2033914cfdb509cccf.jpg",
     "keywords": [
     "telegram",
@@ -39,7 +39,7 @@
     },
     "ALIVE_PHOTTO": {
       "description": "put here any telegraph media link for alive pic.",
-      "value": "https://telegra.ph/file/0efd913d377fbb66d8a72.jpg",
+      "value": "https://telegra.ph/file/91d2033914cfdb509cccf.jpg",
       "required": true
     },
     "BIO_MSG": {
@@ -49,7 +49,7 @@
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for pmpermit custom pic.",
-      "value": "https://telegra.ph/file/0efd913d377fbb66d8a72.jpg",
+      "value": "https://telegra.ph/file/91d2033914cfdb509cccf.jpg",
       "required": true
     },
     "PM_PERMIT_GROUP_ID": {
