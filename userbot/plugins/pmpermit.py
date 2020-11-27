@@ -29,7 +29,7 @@ DEFAULTUSER = (
 CUSTOM_MIDDLE_PMP = str(CUSTOM_PMPERMIT) if CUSTOM_PMPERMIT else "**YOU HAVE TRESPASSED TO MY MASTERS INBOX** \n THIS IS ILLEGAL AND REGARDED AS A CRIME" 
 
 USER_BOT_WARN_ZERO = "`You were spamming my sweet master's inbox, henceforth your retarded lame ass has been blocked by my master's userbot⭕️.`\n**Now GTFO, i'm busy**"
-USER_BOT_NO_WARN = ("`Hello, This is ELIZA⚠️.You have found your way here to my master,`"
+USER_BOT_NO_WARN = ("`Hello, This is PANDA⚠️.You have found your way here to my master,`"
                    f"{DEFAULTUSER}'s inbox. do your work..\n"
                    f"\n**{CUSTOM_MIDDLE_PMP}**\n\n"
                     "`Leave your Name,Reason and 10k$ and hopefully you'll get a reply within 100 light years.`⭕️\n\n"
@@ -38,7 +38,7 @@ USER_BOT_NO_WARN = ("`Hello, This is ELIZA⚠️.You have found your way here to
 
 
 if Var.PRIVATE_GROUP_ID is not None:
-    @borg.on(admin_cmd(pattern="approve ?(.*)"))
+    @borg.on(admin_cmd(pattern="app ?(.*)"))
     async def approve_p_m(event):
         if event.fwd_from:
            return
@@ -92,7 +92,7 @@ if Var.PRIVATE_GROUP_ID is not None:
                 await asyncio.sleep(3)
                 await event.client(functions.contacts.BlockRequest(chat.id))
 
-    @command(pattern="^.disapprove ?(.*)")
+    @command(pattern="^.dapp ?(.*)")
     async def approve_p_m(event):
         if event.fwd_from:
             return
@@ -110,7 +110,7 @@ if Var.PRIVATE_GROUP_ID is not None:
                 
     
 
-    @command(pattern="^.listapproved")
+    @command(pattern="^.lapp")
     async def approve_p_m(event):
         if event.fwd_from:
             return
