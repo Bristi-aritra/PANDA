@@ -1,9 +1,9 @@
 # ELIZA
-###rewrited by @peru_monster
+### Made by @YOU_ARE_UNDER_ARREST
 
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners...
 # For any query:-
-### [Join Here For Any Query](https://t.me/Eliza_userbot_support)
+### [Join Here For Any Query](https://t.me/LEGEND_USERBOT_SUPPORT)
 
 ### The Easy Way to deploy the bot
 Get APP ID and API HASH from [HERE](https://my.telegram.org) and BOT TOKEN from [Bot Father](https://t.me/botfather) and then Generate stringsession by clicking on run.on.repl.it button below and then click on deploy to heroku . Before clicking on deploy to heroku just click on fork and star just below
@@ -12,30 +12,30 @@ Get APP ID and API HASH from [HERE](https://my.telegram.org) and BOT TOKEN from 
 [![Get string session](https://repl.it/badge/github/suhaash02/Eliza)](https://repl.it/@SuhaashL/generatestring#main.py)
 
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/suhaash02/Eliza/tree/master)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aritramandal/PANDA/tree/master)
 
 
 <p align="center">
   <a href="https://github.com/suhaash02/Eliza/fork">
-    <img src="https://img.shields.io/github/forks/suhaash02/Eliza?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/aritramandal/PANDA?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/suhaash02/Eliza">
-    <img src="https://img.shields.io/github/stars/suhaash02/Eliza?style=social">
+  <a href="https://github.com/aritramandal/PANDA">
+    <img src="https://img.shields.io/github/stars/aritramandal/PANDA?style=social">
   </a>
 </p>
 
- ![Repo Size](https://img.shields.io/github/repo-size/suhaash02/Eliza)
+ ![Repo Size](https://img.shields.io/github/repo-size/aritramandal/PANDA)
 
 
 
-[![Elizalogo](https://telegra.ph/file/ced30b3600c5a4e6b2d8a.jpg)](https://heroku.com/deploy?template=https://github.com/suhaash02/Eliza)
+[![PANDAlogo](https://telegra.ph/file/ced30b3600c5a4e6b2d8a.jpg)](https://heroku.com/deploy?template=https://github.com/aritramandal/PANDA)
 
 ## The Normal Way
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/suhaash02/Eliza
-cd eliza
+git clone https://github.com/aritramandal/PANDA
+cd PANDA
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
