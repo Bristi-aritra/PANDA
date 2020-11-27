@@ -241,13 +241,13 @@ async def hehehe(event):
 CMD_HELP.update({
     "pmpermit":
     "\
-.approve\
+.app\
 \nUsage: Approves the mentioned/replied person to PM.\
-.disapprove\
+.dapp\
 \nUsage: dispproves the mentioned/replied person to PM.\
 \n\n.block\
 \nUsage: Blocks the person.\
-\n\n.listapproved\
+\n\n.lapp\
 \nUsage: To list the all approved users.\
 "
 })
