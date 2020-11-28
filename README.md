@@ -9,7 +9,15 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 Get APP ID and API HASH from [HERE](https://my.telegram.org) and BOT TOKEN from [Bot Father](https://t.me/botfather) and then Generate stringsession by clicking on run.on.repl.it button below and then click on deploy to heroku . Before clicking on deploy to heroku just click on fork and star just below
 
 
-[![Get string session](https://repl.it/badge/github/aritramandal/PANDA)](https://repl.it/@aritramandal1/PANDAUB#main.py)
+
+
+### STRING SESSION 
+
+<p align="centre"><a href="https://repl.it/@aritramandal1/PANDA?template=https://repl.it/@aritramandal1/PANDA#main.py"> <img src="https://telegra.ph/file/b9133ebfd256fb7d2993a.jpg" 
+
+
+
+
 
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aritramandal/PANDA/tree/master)
@@ -19,13 +27,23 @@ Get APP ID and API HASH from [HERE](https://my.telegram.org) and BOT TOKEN from 
 
 ### By TEAM #𝙻𝙴𝙶𝙴𝙽𝙳™
 
+
+
+
 ### DON'T FORK THIS REPO 
 
+
+
+
+
 ### LEGEND USERBOT SUPPORT CHANNEL
+
+
 
 <p align="centre"><a href="https://t.me/legend_userbot_support_channel?template=https://t.me/legend_userbot_support_channel"> <img src="https://telegra.ph/file/6b2aeeccbbf98a3e64f01.jpg" alt="JOIN NOW " width="200" height="200.200"/></a></p>
 
 ### LEGEND USERBOT SUPPORT GROUP
+
 
 <p align="centre"><a href="https://t.me/LEGEND_USERBOT_SUPPORT?template=https://t.me/LEGEND_USERBOT_SUPPORT"> <img src="https://telegra.ph/file/9ff92c38775ab62acf606.jpg" alt="JOIN NOW " width="200" height="200.200"/></a></p>
 
