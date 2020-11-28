@@ -1,13 +1,13 @@
-# PANDA
+# 🄿🄰🄽🄳🄰  🅄🅂🄴🅁🄱🄾🅃
 
-### 🄼🄰🄳🄴 🄱🅈 @YOU_ARE_UNDER_ARREST 🄰🄽🄳 @None1p
+### 🄼🄰🄳🄴 🄱🅈 @MARSHMELLOW_OP
 
 
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners...
 
 
 
-[![PANDAlogo](https://telegra.ph/file/91d2033914cfdb509cccf.jpg)](https://heroku.com/deploy?template=https://github.com/aritramandal/PANDA)
+[![PANDAlogo](https://telegra.ph/file/91d2033914cfdb509cccf.jpg)
 
 
 
@@ -57,19 +57,19 @@ Get APP ID and API HASH from [HERE](https://my.telegram.org) and BOT TOKEN from 
 
 
 
-### DON'T FORK THIS REPO 
 
 
 
 
 
-### LEGEND USERBOT SUPPORT CHANNEL
+
+# PANDA USERBOT SUPPORT CHANNEL
 
 
 
 <p align="centre"><a href="https://t.me/legend_userbot_support_channel?template=https://t.me/legend_userbot_support_channel"> <img src="https://telegra.ph/file/6b2aeeccbbf98a3e64f01.jpg" alt="JOIN NOW " width="200" height="200.200"/></a></p>
 
-### LEGEND USERBOT SUPPORT GROUP
+# PANDA USERBOT SUPPORT GROUP
 
 
 <p align="centre"><a href="https://t.me/LEGEND_USERBOT_SUPPORT?template=https://t.me/LEGEND_USERBOT_SUPPORT"> <img src="https://telegra.ph/file/9ff92c38775ab62acf606.jpg" alt="JOIN NOW " width="200" height="200.200"/></a></p>
