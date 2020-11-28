@@ -1,8 +1,25 @@
 # PANDA
 ### Made by @YOU_ARE_UNDER_ARREST
 
+
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners...
+
+
+
+[![PANDAlogo](https://telegra.ph/file/91d2033914cfdb509cccf.jpg)](https://heroku.com/deploy?template=https://github.com/aritramandal/PANDA)
+
+
+
+
+
+
 # For any query:-
+
+
+
+
+
+
 ### [Join Here For Any Query](https://t.me/LEGEND_USERBOT_SUPPORT)
 
 ### The Easy Way to deploy the bot
