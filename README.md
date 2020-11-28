@@ -1,5 +1,6 @@
 # PANDA
-### Made by @YOU_ARE_UNDER_ARREST
+
+### 🄼🄰🄳🄴 🄱🅈 @YOU_ARE_UNDER_ARREST 🄰🄽🄳 @None1p
 
 
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners...
@@ -91,7 +92,7 @@ Get APP ID and API HASH from [HERE](https://my.telegram.org) and BOT TOKEN from 
 
 
 
-[![PANDAlogo](https://telegra.ph/file/91d2033914cfdb509cccf.jpg)](https://heroku.com/deploy?template=https://github.com/aritramandal/PANDA)
+[![MADEBYlogo](https://telegra.ph/file/333da5e978cf19ea2b21c.jpg)](https://heroku.com/deploy?template=https://github.com/aritramandal/PANDA)
 
 ## The Normal Way
 Simply clone the repository and run the main file:
