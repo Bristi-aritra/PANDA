@@ -15,6 +15,24 @@ Get APP ID and API HASH from [HERE](https://my.telegram.org) and BOT TOKEN from 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aritramandal/PANDA/tree/master)
 
 
+
+
+### By TEAM #𝙻𝙴𝙶𝙴𝙽𝙳™
+
+### DON'T FORK THIS REPO 
+
+### LEGEND USERBOT SUPPORT CHANNEL
+
+<p align="centre"><a href="https://t.me/legend_userbot_support_channel?template=https://t.me/legend_userbot_support_channel"> <img src="https://telegra.ph/file/6b2aeeccbbf98a3e64f01.jpg" alt="JOIN NOW " width="200" height="200.200"/></a></p>
+
+### LEGEND USERBOT SUPPORT GROUP
+
+<p align="centre"><a href="https://t.me/LEGEND_USERBOT_SUPPORT?template=https://t.me/LEGEND_USERBOT_SUPPORT"> <img src="https://telegra.ph/file/9ff92c38775ab62acf606.jpg" alt="JOIN NOW " width="200" height="200.200"/></a></p>
+
+
+
+
+
 <p align="center">
   <a href="https://github.com/suhaash02/Eliza/fork">
     <img src="https://img.shields.io/github/forks/aritramandal/PANDA?label=Fork&style=social">
