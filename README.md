@@ -13,7 +13,7 @@ Get APP ID and API HASH from [HERE](https://my.telegram.org) and BOT TOKEN from 
 
 ### STRING SESSION 
 
-<p align="centre"><a href="https://repl.it/@aritramandal1/PANDA?template=https://repl.it/@aritramandal1/PANDA#main.py"> <img src="https://telegra.ph/file/b9133ebfd256fb7d2993a.jpg" 
+<p align="centre"><a href="https://repl.it/@aritramandal1/PANDA?template=https://repl.it/@aritramandal1/PANDA#main.py"> <img src="https://telegra.ph/file/b9133ebfd256fb7d2993a.jpg" alt="GET STRING" width="200" height="100.100"/></a></p>
 
 
 
